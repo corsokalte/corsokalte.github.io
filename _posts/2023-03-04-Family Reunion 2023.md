@@ -41,7 +41,7 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Hotdogs            |      TBD    |
 | Bratwurst          |      TBD    |
 | Mostaccioli        |      TBD    |
-| Potatoe Caserole   |      TBD    |
+| Potato Casserole   |      TBD    |
 | Pizza              |      TBD    |
 | TBD                |      TBD    | 
 
@@ -87,7 +87,7 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Pickles                  | TBD     | 
 | Ranch Dressing           | TBD     |
 | Italian Dressing         | TBD     |
-| TBD                      | TBD     |
+| Black Olives             | TBD     |
 
 ## Utencils and Plates
 
@@ -99,7 +99,7 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Spoons           | TBD      | 
 | Knifes           | TBD      | 
 | Serving spoons   | TBD      | 
-| Knapkins         | TBD      | 
+| Napkins          | TBD      | 
 
 # Activities Sign-up Sheet
 
@@ -114,4 +114,5 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
 | Washers        | Ben & Chelsea Shea       |
-| Horse Shoes    | TBD     |
+| Horseshoes    | TBD     |
+| Corn Hole    | TBD     |

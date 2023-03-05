@@ -12,6 +12,10 @@ We are planning a 2023 reunion for the Corso and Kaltenbach Family.
 
 Please RSVP with your name, number of attendees, and what you plan to bring for the potluck to [corsokalte@gmail.com](mailto:corsokalte@gmail.com?subject=[CKFamilyReunion])
 
+### Reminders
+- Bring a lawn chair
+- Bring old photos to share memories with the family
+
 # Potluck Sign-up Sheet
 
 ### Current as of Sunday, March 5th 2023
@@ -48,7 +52,7 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | ----------- | ----------- |
 | Berry Salad      |   TBD        |
 | Caesar Salad     |   TBD        |
-| TBD              |   TBD        | 
+| Pasta Salad      |   TBD        | 
 
 ## Sides and Snacks
 
@@ -70,7 +74,8 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Chocolate Chip Cookies            |  TBD      |
 | Peanutbutter Cookies              |  TBD      |
 | Gooey Butter Cake                 |  TBD      |
-| TBD                               |  TBD       | 
+| Pie                               |  TBD      | 
+| Cake                              |  TBD       | 
 
 ## Condiments
 
@@ -108,5 +113,5 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| Washers    | Ben & Chelsea Shea       |
-| TBD    | TBD     |
+| Washers        | Ben & Chelsea Shea       |
+| Horse Shoes    | TBD     |

@@ -13,7 +13,7 @@ We are planning a 2023 reunion for the Corso and Kaltenbach Family.
 Please RSVP with your name, number of attendees, and what you plan to bring for the potluck to [corsokalte@gmail.com](mailto:corsokalte@gmail.com?subject=[CKFamilyReunion])
 
 ### Reminders
-- Bring a lawn chair
+- Bring a few lawn chairs
 - Bring old photos to share memories with the family
 
 # Potluck Sign-up Sheet

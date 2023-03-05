@@ -34,43 +34,43 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| Hotdogs            |             |
+| Hotdogs            |      TBD    |
 | Bratwurst          |      TBD    |
 | Mostaccioli        |      TBD    |
 | Potatoe Caserole   |      TBD    |
 | Pizza              |      TBD    |
-| TBD                       | TBD                      | 
+| TBD                |      TBD    | 
 
 
 ## Salads
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| Berry Salad     |    TBD         |
-| Caesar Salad     |   TBD          |
-| TBD                       | TBD                      | 
+| Berry Salad      |   TBD        |
+| Caesar Salad     |   TBD        |
+| TBD              |   TBD        | 
 
 ## Sides and Snacks
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| Berry Mix   |     Ben & Chelsea Shea              |
-| BBQ Chips   |     TBD              |
-| Doritos   |     TBD              |
-| Motz Sticks   |     TBD              |
-| Vegi Plate   |     TBD              |
-| Fruit Plate   |     TBD              |
-| Meat and Cheese Plate   |     TBD              |
-| TBD                       | TBD                      | 
+| Berry Mix               |     Ben & Chelsea Shea  |
+| BBQ Chips               |     TBD                 |
+| Doritos                 |     TBD                 |
+| Motz Sticks             |     TBD                 |
+| Vegi Plate              |     TBD                 |
+| Fruit Plate             |     TBD                 |
+| Meat and Cheese Plate   |     TBD                 |
+| TBD                     |     TBD                 | 
 
 ## Dessert
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
 | Chocolate Chip Cookies            |  TBD      |
-| Peanutbutter Cookies            |  TBD      |
-| Gooey Butter Cake     |  TBD      |
-| TBD                       | TBD                      | 
+| Peanutbutter Cookies              |  TBD      |
+| Gooey Butter Cake                 |  TBD      |
+| TBD                               |  TBD       | 
 
 ## Condiments
 
@@ -80,15 +80,15 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | BBQ Sauce                | TBD     | 
 | Mustard                  | TBD     | 
 | Pickles                  | TBD     | 
-| Ranch Dressing           |  TBD    |
-| Italian Dressing           |  TBD    |
-| TBD                      |  TBD    |
+| Ranch Dressing           | TBD     |
+| Italian Dressing         | TBD     |
+| TBD                      | TBD     |
 
 ## Utencils and Plates
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| Paper Plates    | TBD       |
+| Paper Plates     | TBD      |
 | Cups             | TBD      | 
 | Forks            | TBD      | 
 | Spoons           | TBD      | 

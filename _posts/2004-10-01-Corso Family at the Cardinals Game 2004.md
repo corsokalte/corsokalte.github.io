@@ -8,6 +8,5 @@ tags: [baseball]     # TAG names should always be lowercase
 
 - The family has always been huge Cardinals baseball fans. Here is an image depicting the family together preparing to enjoy a game in early October in 2004. This year the Cardinals lost in the World Series to the Boston Red Sox. This particular game was rained out. 
 
-![Alt text](https://raw.githubusercontent.com/corsokalte/corsokalte.github.io/main/img/DCP_1863.JPG "baseball")
-![]([path_to_image](https://raw.githubusercontent.com/corsokalte/corsokalte.github.io/main/img/DCP_1863.JPG))
+<img src="./images/DCP_1863.JPG" alt="baseball">
 *Photographed at the old Busch Statium from left to Right is Courtney, Michael, Janis, Tina, Amanda, Chrissy, Patty, and Sal*

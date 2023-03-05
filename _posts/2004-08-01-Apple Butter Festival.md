@@ -2,7 +2,7 @@
 title: Apple Butter Festival
 date: 2004-08-01 08:30:00 +0800
 categories: [family]
-tags: [girls,corso,family,dad]     # TAG names should always be lowercase
+tags: [girls,corso,family]     # TAG names should always be lowercase
 ---
 # 2004 - Apple Butter Festival
 

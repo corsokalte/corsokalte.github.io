@@ -19,46 +19,44 @@ GenY ---> Mo(Betty Kaltenbach)
 Almeda --> GenY
 William --> GenY
 
-GenY --> Bill
-GenY --> Bob
-GenY --> Jim
-GenY -->Jack
+GenY --> Jack
 GenY --> Marian
-GenY -->Dorothy
+GenY --> Dorothy
+GenY --> Bill
+GenY --> Jim
 
-Bill --> BillKid1
-Bill --> BillKid2
-Bill --> BillKid3
-Bill --> BillKid4
-Bill --> BillKid5
-Bill --> BillKid6
+Bill --> Sandy
+Bill --> Jackie
+Bill --> Billy
+Bill --> Mary
+Bill --> Nancy
+Bill --> Clark
 
-Jim --> JimKid1
-Jim --> JimKid1
-Jim --> JimKid1
-Jim --> JimKid1
+Jim --> Guy
+Jim --> Diane
+Jim --> Paul
+Jim --> Gary
 
-Jack --> JackKid1
-Jack --> JackKid2
+Jack --> MaryChristine
+Jack --> GloriaJean
+Jack --> John
 
-Marian --> MarianKid1
-Marian --> MarianKid2
-Marian --> MarianKid3
-Marian --> MarianKid4
-Marian --> MarianKid5
+Marian --> Larry
+Marian --> Eddy
+Marian --> Carol
+Marian --> Cathy
+Marian --> Kenny
 
-Dorothy --> DorKid1
-Dorothy --> DorKid2
-Dorothy --> DorKid3
-Dorothy --> DorKid4
-Dorothy --> DorKid5
+Dorothy --> Steve
+Dorothy --> BobGliedt
+Dorothy --> Karen
+Dorothy --> Terry
+Dorothy --> Sussie
 
-Josephine --> JosKid1
-Josephine --> JosKid2
-Josephine --> JosKid3
+Josephine --> Ellen
+Josephine --> Patty
 
-Joe --> JoeKid1
-Joe --> JoeKid2
+Joe --> Jane
 
 Anna --> GenX
 Charles --> GenX

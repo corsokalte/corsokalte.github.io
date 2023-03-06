@@ -16,7 +16,7 @@ The chart must be viewed directly within the GitHub repository.
 
 GenY ---> Mo(Betty Kaltenbach) 
 
-Alneda --> GenY
+Almeda --> GenY
 William --> GenY
 
 GenY --> Bill

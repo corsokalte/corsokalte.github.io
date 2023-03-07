@@ -76,59 +76,34 @@ G2 --> S5(Patty)
 G2 --> S6(Tina)
 G2 --> S7(Chrissy)
 
-S5(Patty) --> G3
+S2 --> Tiffany
+S2 --> Carrie
+S2 --> Betsy
+S2 --> Becky
 
+S3 --> Jay
+Jay --> Lexie
+Jay --> Kyle
+S3 --> Mark
+Mark --> Joey
+Mark --> Natalie
+S3 --> Ben
 
-S2 --> G6
-S2 --> G7
-S2 --> G8
+Ben --> Lincoln
 
-S3 --> G9
-S3 --> G10
-S3 --> G11
+S4 --> Andrea
+S4 --> Ryan
 
-S4 --> G12
-S4 --> G13
-S4 --> G14
+S5 --> SandyC
 
-G3 --> G31
-G3 --> G32
-G3 --> G33
+SandyC --> Bella
+SandyC --> Mia
 
-G6 --> G40
-G6 --> G41
-G6 --> G42
+S5 --> Michael
 
-G7 --> G43
-G7 --> G44
-G7 --> G45
+S6 --> Nathan
 
+S7 --> Amanda
+S7 --> Courtney
 
-G8 --> G46
-G8 --> G47
-G8 --> G48
-
-G9 --> G49
-G9 --> G50
-G9 --> G51
-
-G10 --> G52
-G10 --> G53
-G10 --> G54
-
-G11 --> G55
-G11 --> G56
-G11 --> G57
-
-G12 --> G58
-G12 --> G59
-G12 --> G60
-
-G13 --> G61
-G13 --> G62
-G13 --> G63
-
-G14 --> G64
-G14 --> G65
-G14 --> G66
 ```

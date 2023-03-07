@@ -68,7 +68,6 @@ GenX --> Joe
 
 Fa(Salvatore Corso) ---> G2(1st Gen)
 Mo(Betty Kaltenbach) ---> G2
-G2 --> S1(Marian)
 G2 --> S2(Linda)
 G2 --> S3(Janis)
 G2 --> S4(Charlie)
@@ -76,10 +75,19 @@ G2 --> S5(Patty)
 G2 --> S6(Tina)
 G2 --> S7(Chrissy)
 
+Mo(Betty Kaltenbach) --> MarianWinters
+
 S2 --> Tiffany
+Tiffany --> Abby
+Tiffany --> Landon
 S2 --> Carrie
-S2 --> Betsy
+Carrie --> Zachary
+S2 --> Betsey
+Betsey --> Morgan
+
 S2 --> Becky
+Becky --> Hunter
+Becky --> Hadley
 
 S3 --> Jay
 Jay --> Lexie
@@ -87,12 +95,20 @@ Jay --> Kyle
 S3 --> Mark
 Mark --> Joey
 Mark --> Natalie
+Mark --> Jacob
 S3 --> Ben
 
 Ben --> Lincoln
 
 S4 --> Andrea
+
+Andrea --> Luke
+Andrea --> Girl1
+Andrea --> Girl2
+
 S4 --> Ryan
+Ryan --> Autumn
+
 
 S5 --> SandyC
 

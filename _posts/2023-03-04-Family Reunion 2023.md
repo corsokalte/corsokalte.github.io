@@ -5,7 +5,7 @@ categories: [Announcement]
 tags: [announcement]     # TAG names should always be lowercase
 ---
 
-We are planning a 2023 reunion for the Corso and Kaltenbach Family.   
+* UPDATE: The 2023 reunion for the Corso and Kaltenbach Family is this weekend. Phone calls will be going out from Janis to confirm RSVP. We are estimating about 40 people attending and we have updated the potluck sign-up sheet that is below.   
 
 - When: Saturday, June 3rd, 2023 at 11 AM  
 - Where: [Kircher Park, 25 Williams Rd, Eureka, MO 63025](https://www.google.com/maps/place/Kircher+Park/@38.502744,-90.6155987,16z/data=!4m14!1m7!3m6!1s0x87d92817a45c6819:0x8005682ed093d1f!2sKircher+Park!8m2!3d38.502744!4d-90.612958!16s%2Fg%2F1tcvjm_2!3m5!1s0x87d92817a45c6819:0x8005682ed093d1f!8m2!3d38.502744!4d-90.612958!16s%2Fg%2F1tcvjm_2)   
@@ -25,8 +25,6 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
 | 1 case of water w/ Ice    | Ben & Chelsea Shea       |
-| Beer                      | TBD                      | 
-| Wine                      | TBD                      |
 | Dr. Pepper                | TBD                      | 
 | Coke                      | TBD                      | 
 | Sprite                    | TBD                      | 
@@ -38,7 +36,7 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| Hotdogs            |      TBD    |
+| Hotdogs & Buns            |      Courtney & Britt    |
 | Bratwurst          |      TBD    |
 | Mostaccioli        |      TBD    |
 | Potato Casserole   |      TBD    |
@@ -58,11 +56,12 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| Berry Mix               |     Ben & Chelsea Shea  |
-| BBQ Chips               |     TBD                 |
-| Doritos                 |     TBD                 |
+| Berry Mix               |     Ben & Chelsea S.    |
+| Chicken Wing Dip.       |     Chrissy M.          | 
+| Chips                   | Chrissy M.              |
+| Mixture of Chips              |     Amanda                  |
 | Motz Sticks             |     TBD                 |
-| Vegi Plate              |     TBD                 |
+| Vegi Plate / Tray              |     Amanda                 |
 | Fruit Plate             |     TBD                 |
 | Meat and Cheese Plate   |     TBD                 |
 | TBD                     |     TBD                 | 
@@ -71,6 +70,7 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
+| Chrissy's Dessert                 | Chrissy   |
 | Chocolate Chip Cookies            |  TBD      |
 | Peanutbutter Cookies              |  TBD      |
 | Gooey Butter Cake                 |  TBD      |
@@ -81,9 +81,10 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| Ketchup                  | TBD     |
+| Ketchup                  | Courtney & Britt     |
 | BBQ Sauce                | TBD     | 
-| Mustard                  | TBD     | 
+| Mustard                  | Courtney & Britt    | 
+| Relish                   | Courtney & Britt     |
 | Pickles                  | TBD     | 
 | Ranch Dressing           | TBD     |
 | Italian Dressing         | TBD     |
@@ -94,10 +95,10 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
 | Paper Plates     | TBD      |
-| Cups             | TBD      | 
-| Forks            | TBD      | 
-| Spoons           | TBD      | 
-| Knifes           | TBD      | 
+| Cups             | Amanda      | 
+| Forks            | Amanda      | 
+| Spoons           | Amanda      | 
+| Knifes           | Amanda      | 
 | Serving spoons   | TBD      | 
 | Napkins          | TBD      | 
 
@@ -115,4 +116,4 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | ----------- | ----------- |
 | Washers        | Ben & Chelsea Shea       |
 | Horseshoes    | TBD     |
-| Corn Hole    | TBD     |
+| Corn Hole    | Courtney      |

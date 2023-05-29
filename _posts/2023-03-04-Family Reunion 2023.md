@@ -37,7 +37,8 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
 | Hotdogs & Buns            |      Courtney & Britt    |
-| Bratwurst          |      TBD    |
+| Bratwurst & Buns          |      Janis S.    |
+| Hotdog Buns               |      Linda       | 
 | Mostaccioli        |      TBD    |
 | Potato Casserole   |      TBD    |
 | Pizza              |      TBD    |
@@ -50,7 +51,7 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | ----------- | ----------- |
 | Berry Salad      |   TBD        |
 | Caesar Salad     |   TBD        |
-| Pasta Salad      |   TBD        | 
+| Pasta Salad      |   Janis S.        | 
 
 ## Sides and Snacks
 
@@ -58,13 +59,14 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | ----------- | ----------- |
 | Berry Mix               |     Ben & Chelsea S.    |
 | Chicken Wing Dip.       |     Chrissy M.          | 
-| Chips                   | Chrissy M.              |
-| Mixture of Chips              |     Amanda                  |
+| Chips                   |     Chrissy M.          |
+| Mixture of Chips        |     Amanda              |
 | Motz Sticks             |     TBD                 |
-| Vegi Plate / Tray              |     Amanda                 |
+| Vegi Plate / Tray       |     Amanda              |
 | Fruit Plate             |     TBD                 |
 | Meat and Cheese Plate   |     TBD                 |
-| TBD                     |     TBD                 | 
+| Potatoe Salad           |     Jay & Pam           | 
+| Coleslaw                |     Linda               |
 
 ## Dessert
 
@@ -75,15 +77,15 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Peanutbutter Cookies              |  TBD      |
 | Gooey Butter Cake                 |  TBD      |
 | Pie                               |  TBD      | 
-| Cake                              |  TBD       | 
+| Costco Half-sheet Cake (Family Reunion 2023 - Happy Birthday Charlie  |  Patti & Janis      | 
 
 ## Condiments
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
 | Ketchup                  | Courtney & Britt     |
-| BBQ Sauce                | TBD     | 
-| Mustard                  | Courtney & Britt    | 
+| BBQ Sauce                | TBD                  | 
+| Mustard                  | Courtney & Britt     | 
 | Relish                   | Courtney & Britt     |
 | Pickles                  | TBD     | 
 | Ranch Dressing           | TBD     |
@@ -116,4 +118,4 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | ----------- | ----------- |
 | Washers        | Ben & Chelsea Shea       |
 | Horseshoes    | TBD     |
-| Corn Hole    | Courtney      |
+| Corn Hole    | Courtney & Britt      |

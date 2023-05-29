@@ -5,7 +5,7 @@ categories: [Announcement]
 tags: [announcement]     # TAG names should always be lowercase
 ---
 
-* UPDATE: The 2023 reunion for the Corso and Kaltenbach Family is this weekend. Phone calls will be going out from Janis to confirm RSVP. We are estimating about 40 people attending and we have updated the potluck sign-up sheet that is below.   
+* UPDATE: The 2023 reunion for the Corso and Kaltenbach Family is this weekend. Phone calls will be going out from Janis to confirm RSVP. We are estimating about 40 people attending and we have updated the potluck sign-up sheet that is below. A final RSVP number will be sent to those bringing food so that we each know how much food or how many hotdogs to bring.
 
 - When: Saturday, June 3rd, 2023 at 11 AM  
 - Where: [Kircher Park, 25 Williams Rd, Eureka, MO 63025](https://www.google.com/maps/place/Kircher+Park/@38.502744,-90.6155987,16z/data=!4m14!1m7!3m6!1s0x87d92817a45c6819:0x8005682ed093d1f!2sKircher+Park!8m2!3d38.502744!4d-90.612958!16s%2Fg%2F1tcvjm_2!3m5!1s0x87d92817a45c6819:0x8005682ed093d1f!8m2!3d38.502744!4d-90.612958!16s%2Fg%2F1tcvjm_2)   

@@ -18,7 +18,7 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 
 # Potluck Sign-up Sheet
 
-### Current as of Sunday, March 5th 2023
+### Current as of Monday, May 29th 2023
 
 ## Drinks
 

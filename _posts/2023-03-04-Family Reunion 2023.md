@@ -5,9 +5,10 @@ categories: [Announcement]
 tags: [announcement]     # TAG names should always be lowercase
 ---
 
-* UPDATE: The list is complete. There will be about 30-40 people at the reunion. See you there! For any last minute questions please call Janis at <a href="tel:6367951901">636-795-1901</a>.
+Thank you to everyone that attended the 2023 family reunion. We look forward to seeing eachother again soon. The next Family reunion is tentatively scheduled for the first Saturday of June in 2025. This will be June 7th, 2025. Almost all of the details will tentatively stay the same.  
 
-
+* Picture 1 (People)
+* Picture 2 (The Cake)
 
 - When: Saturday, June 3rd, 2023 at 11 AM  
 - Where: [Kircher Park Pavilion #2, 25 Williams Rd, Eureka, MO 63025](https://www.google.com/maps/place/Kircher+Park/@38.502744,-90.6155987,16z/data=!4m14!1m7!3m6!1s0x87d92817a45c6819:0x8005682ed093d1f!2sKircher+Park!8m2!3d38.502744!4d-90.612958!16s%2Fg%2F1tcvjm_2!3m5!1s0x87d92817a45c6819:0x8005682ed093d1f!8m2!3d38.502744!4d-90.612958!16s%2Fg%2F1tcvjm_2)   
@@ -27,11 +28,11 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
 | 1 case of water w/ Ice    | Ben & Chelsea S.       |
-| Dr. Pepper                | TBD                      | 
+| Dr. Pepper                | Yes                      | 
 | Coke                      | Sandi C.                      | 
 | Sprite                    | Sandi C.                      | 
 | Diet Coke                 | Sandi C.                      | 
-| Lemonade                  | TBD                      | 
+| Lemonade                  | No                      | 
 | Root Beer                 | Sandi C.                      | 
 
 ## Entrees
@@ -42,17 +43,18 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Bratwurst & Buns          |      Janis S.    |
 | Hotdog Buns               |      Linda       | 
 | Mostaccioli        |      Sandi C.    |
-| Potato Casserole   |      TBD    |
-| Pizza              |      TBD    |
-| Fried Chicken                |      Linda    | 
+| Potato Casserole   |      No    |
+| Pizza              |      No    |
+| Fried Chicken                |      Linda B.    | 
 
 
 ## Salads
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| Berry Salad      |   TBD        |
-| Caesar Salad     |   TBD        |
+| Berry Salad      |   No        |
+| Salad            |   Yes
+| Caesar Salad     |   No        |
 | Pasta Salad      |   Janis S.        | 
 
 ## Sides and Snacks
@@ -63,10 +65,9 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Chicken Wing Dip.       |     Chrissy M.          | 
 | Chips                   |     Chrissy M.          |
 | Mixture of Chips        |     Amanda              |
-| Motz Sticks             |     TBD                 |
 | Vegi Plate / Tray       |     Amanda              |
-| Fruit Plate             |     TBD                 |
-| Meat and Cheese Plate   |     TBD                 |
+| Fruit Plate             |     No                 |
+| Meat and Cheese Plate   |     No                 |
 | Potatoe Salad           |     Jay & Pam           | 
 | Coleslaw                |     Linda               |
 | Mac N' Cheese           |     Ben S.              |
@@ -76,10 +77,10 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
 | Chrissy's Dessert                 | Chrissy   |
-| Chocolate Chip Cookies            |  TBD      |
-| Peanutbutter Cookies              |  TBD      |
-| Gooey Butter Cake                 |  TBD      |
-| Pie                               |  TBD      | 
+| Chocolate Chip Cookies            |  No      |
+| Peanutbutter Cookies              |  No      |
+| Gooey Butter Cake                 |  No      |
+| Pie                               |  No      | 
 | Costco Half-sheet Cake (Family Reunion 2023 - Happy Birthday Charlie  |  Patti & Janis      | 
 
 ## Condiments
@@ -87,13 +88,13 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
 | Ketchup                  | Courtney & Britt     |
-| BBQ Sauce                | TBD                  | 
+| BBQ Sauce                | No                  | 
 | Mustard                  | Courtney & Britt     | 
 | Relish                   | Courtney & Britt     |
-| Pickles                  | TBD     | 
-| Ranch Dressing           | TBD     |
-| Italian Dressing         | TBD     |
-| Black Olives             | TBD     |
+| Pickles                  | ?     | 
+| Ranch Dressing           | ?     |
+| Italian Dressing         | ?     |
+| Black Olives             | ?     |
 
 ## Utencils and Plates (Misc.)
 
@@ -104,8 +105,8 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Forks            | Amanda      | 
 | Spoons           | Amanda      | 
 | Knifes           | Amanda      | 
-| Serving spoons   | TBD      | 
-| Napkins          | TBD      | 
+| Serving spoons   | Yes      | 
+| Napkins          | Yes      | 
 | Ice              | Sandi C. |
 
 # Activities Sign-up Sheet
@@ -116,11 +117,12 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | ----------- | ----------- |
 | Water baloons    | Sandi C.       |
 | Waterguns        | Chelsea S.     |
+| Bubbles          | Sandi C. & Chelsea S. |
 
 ## Grown-up Games
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
 | Washers        | Ben & Chelsea S.       |
-| Horseshoes    | TBD     |
+| Horseshoes    | No     |
 | Corn Hole    | Courtney & Britt      |

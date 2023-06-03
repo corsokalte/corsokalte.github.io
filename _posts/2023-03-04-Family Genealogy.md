@@ -16,6 +16,7 @@ The chart must be viewed directly within the GitHub repository.
 
 GenY ---> Mo(Betty Kaltenbach) 
 
+Amanda1 --> Almeda
 Almeda --> GenY
 William --> GenY
 
@@ -50,13 +51,13 @@ Marian --> Kenny
 Dorothy --> Steve
 Dorothy --> BobGliedt
 Dorothy --> Karen
-Dorothy --> Terry
+Dorothy --> Theresa/Tari
 Dorothy --> Sussie
 
 Josephine --> Ellen
 Josephine --> Patty
 
-Joe --> Jane
+Joe2 --> Jane
 
 Anna --> GenX
 Charles --> GenX
@@ -64,8 +65,9 @@ Charles --> GenX
 GenX --> Fa(Salvatore Corso)
 GenX --> Josephine 
 GenX --> Lucille
-GenX --> Joe
+GenX --> Joe1
 
+Joe1 --> Joe2
 Fa(Salvatore Corso) ---> G2(1st Gen)
 Mo(Betty Kaltenbach) ---> G2
 G2 --> S2(Linda)
@@ -119,7 +121,7 @@ S5 --> Michael
 
 S6 --> Nathan
 
-S7 --> Amanda
+S7 --> Amanda2
 S7 --> Courtney
 
 ```

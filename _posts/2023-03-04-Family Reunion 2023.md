@@ -5,7 +5,7 @@ categories: [Announcement]
 tags: [announcement]     # TAG names should always be lowercase
 ---
 
-* UPDATE: The list is complete. There will be about 30-40 people at the reunion. See you there! For any last minute questions please call Janis at <a href="tel:+6367951901">636-795-1901</a>.
+* UPDATE: The list is complete. There will be about 30-40 people at the reunion. See you there! For any last minute questions please call Janis at <a href="tel:6367951901">636-795-1901</a>.
 
 
 

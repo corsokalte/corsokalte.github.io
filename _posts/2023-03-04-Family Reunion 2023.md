@@ -7,8 +7,14 @@ tags: [announcement]     # TAG names should always be lowercase
 
 Thank you to everyone that attended the 2023 family reunion. We look forward to seeing eachother again soon. The next Family reunion is tentatively scheduled for the first Saturday of June in 2025. This will be June 7th, 2025. Almost all of the details will tentatively stay the same.  
 
-* Picture 1 (People)
-* Picture 2 (The Cake)
+<img src="https://raw.githubusercontent.com/corsokalte/corsokalte.github.io/main/_posts/images/FamilyReunion_2023.JPG" alt="Family Reunion 2023">
+*Family Reunion 2023.*
+
+<img src="https://raw.githubusercontent.com/corsokalte/corsokalte.github.io/main/_posts/images/FamilyReunion_2023(2).JPG" alt="Family Reunion 2023">
+*Family Reunion 2023.* 
+
+<img src="https://raw.githubusercontent.com/corsokalte/corsokalte.github.io/main/_posts/images/cake_2023.jpg" alt="Family Reunion 2023.">
+*Family Reunion 2023.*
 
 - When: Saturday, June 3rd, 2023 at 11 AM  
 - Where: [Kircher Park Pavilion #2, 25 Williams Rd, Eureka, MO 63025](https://www.google.com/maps/place/Kircher+Park/@38.502744,-90.6155987,16z/data=!4m14!1m7!3m6!1s0x87d92817a45c6819:0x8005682ed093d1f!2sKircher+Park!8m2!3d38.502744!4d-90.612958!16s%2Fg%2F1tcvjm_2!3m5!1s0x87d92817a45c6819:0x8005682ed093d1f!8m2!3d38.502744!4d-90.612958!16s%2Fg%2F1tcvjm_2)   

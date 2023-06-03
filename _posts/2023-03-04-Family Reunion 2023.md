@@ -5,7 +5,9 @@ categories: [Announcement]
 tags: [announcement]     # TAG names should always be lowercase
 ---
 
-* UPDATE: The list is complete. There will be about 30-40 people at the reunion. See you there! For any last minute questions please call Janis at 636-795-1901.
+* UPDATE: The list is complete. There will be about 30-40 people at the reunion. See you there! For any last minute questions please call Janis at <a href="tel:+6367951901">636-795-1901</a>.
+
+
 
 - When: Saturday, June 3rd, 2023 at 11 AM  
 - Where: [Kircher Park, 25 Williams Rd, Eureka, MO 63025](https://www.google.com/maps/place/Kircher+Park/@38.502744,-90.6155987,16z/data=!4m14!1m7!3m6!1s0x87d92817a45c6819:0x8005682ed093d1f!2sKircher+Park!8m2!3d38.502744!4d-90.612958!16s%2Fg%2F1tcvjm_2!3m5!1s0x87d92817a45c6819:0x8005682ed093d1f!8m2!3d38.502744!4d-90.612958!16s%2Fg%2F1tcvjm_2)   
@@ -67,6 +69,7 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Meat and Cheese Plate   |     TBD                 |
 | Potatoe Salad           |     Jay & Pam           | 
 | Coleslaw                |     Linda               |
+| Mac N' Cheese           |     Ben S.              |
 
 ## Dessert
 

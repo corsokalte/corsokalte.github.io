@@ -18,19 +18,19 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 
 # Potluck Sign-up Sheet
 
-### Current as of Monday, May 29th 2023
+### Current as of Saturday, June 3rd 2023
 
 ## Drinks
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| 1 case of water w/ Ice    | Ben & Chelsea Shea       |
+| 1 case of water w/ Ice    | Ben & Chelsea S.       |
 | Dr. Pepper                | TBD                      | 
-| Coke                      | TBD                      | 
-| Sprite                    | TBD                      | 
-| Diet Coke                 | TBD                      | 
+| Coke                      | Sandi C.                      | 
+| Sprite                    | Sandi C.                      | 
+| Diet Coke                 | Sandi C.                      | 
 | Lemonade                  | TBD                      | 
-| Capri Sun                 | TBD                      | 
+| Root Beer                 | Sandi C.                      | 
 
 ## Entrees
 
@@ -39,10 +39,10 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Hotdogs & Buns            |      Courtney & Britt    |
 | Bratwurst & Buns          |      Janis S.    |
 | Hotdog Buns               |      Linda       | 
-| Mostaccioli        |      TBD    |
+| Mostaccioli        |      Sandi C.    |
 | Potato Casserole   |      TBD    |
 | Pizza              |      TBD    |
-| TBD                |      TBD    | 
+| Fried Chicken                |      Linda    | 
 
 
 ## Salads
@@ -92,17 +92,18 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Italian Dressing         | TBD     |
 | Black Olives             | TBD     |
 
-## Utencils and Plates
+## Utencils and Plates (Misc.)
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| Paper Plates     | TBD      |
-| Cups             | Amanda      | 
+| Paper Plates     | Ben & Chelsea S.      |
+| Cups             | Amanda & Sandi C.      | 
 | Forks            | Amanda      | 
 | Spoons           | Amanda      | 
 | Knifes           | Amanda      | 
 | Serving spoons   | TBD      | 
 | Napkins          | TBD      | 
+| Ice              | Sandi C. |
 
 # Activities Sign-up Sheet
 
@@ -110,12 +111,13 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| TBD    | TBD       |
+| Water baloons    | Sandi C.       |
+| Waterguns        | Chelsea S.     |
 
 ## Grown-up Games
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
-| Washers        | Ben & Chelsea Shea       |
+| Washers        | Ben & Chelsea S.       |
 | Horseshoes    | TBD     |
 | Corn Hole    | Courtney & Britt      |

@@ -105,6 +105,7 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 | Serving spoons   | TBD      | 
 | Napkins          | TBD      | 
 | Ice              | TBD |
+| Tablecloths      | TBD |
 
 # Activities Sign-up Sheet
 

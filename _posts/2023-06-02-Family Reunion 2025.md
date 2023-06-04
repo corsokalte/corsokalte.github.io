@@ -95,6 +95,7 @@ Please RSVP with your name, number of attendees, and what you plan to bring for 
 
 | Item      | Responsible Family Member |
 | ----------- | ----------- |
+| Power Strip for Crockpots | TBD |
 | Paper Plates     | TBD      |
 | Cups             | TBD      | 
 | Forks            | TBD      | 

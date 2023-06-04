@@ -11,6 +11,7 @@ tags: [announcements]     # TAG names should always be lowercase
 
 ## Markdown Tips
 
+- Set date of each post in the past; otherwise the post will not appear in the site build.
 - Enter three spaces at the end of each line for each line break   
 - Enter three asterisks for a true horizontal line break (* * *)   
 - The file name should always be 2022-MM-DD-Example Title Name.md   

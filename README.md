@@ -16,3 +16,4 @@ tags: [announcements]     # TAG names should always be lowercase
 - Enter three asterisks for a true horizontal line break (* * *)   
 - The file name should always be 2022-MM-DD-Example Title Name.md   
 - Add files to _posts folder at corsokalte.github.io by clicking 'Add File' and 'Create new File' and then copy and paste from this template.   
+- This site helped solve problems with site build. Updated settings resolved issue. https://stackoverflow.com/questions/72079476/jekyll-deployed-in-github-shows-raw-text-of-index-html-file

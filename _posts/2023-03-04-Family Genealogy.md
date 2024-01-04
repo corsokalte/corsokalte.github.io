@@ -5,12 +5,14 @@ categories: [Genealogy]
 tags: [Genealogy]     # TAG names should always be lowercase
 ---
 
-## This is a draft of our family genealogy. 
+## This is a working draft of our family genealogy. 
 
 The chart must be viewed directly within the GitHub repository.
 
 [Link](https://github.com/corsokalte/corsokalte.github.io/blob/main/_posts/2023-03-04-Family%20Genealogy.md)
 
+* It was reviewed at the 2023 family reunion and has been validated by several of the Corso sisters. 
+  
 ```mermaid
   graph LR;
 

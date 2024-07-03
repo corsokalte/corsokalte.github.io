@@ -94,7 +94,7 @@ Becky --> Hunter
 Becky --> Hadley
 
 S3 --> Jay
-Jay --> Lexie
+Jay --> Lexie1
 Jay --> Kyle
 S3 --> Mark
 Mark --> Joey
@@ -108,7 +108,7 @@ Ben --> Emmett
 S4 --> Andrea
 
 Andrea --> Luke
-Andrea --> Girl1
+Andrea --> Lexi2
 Andrea --> Girl2
 
 S4 --> Ryan
